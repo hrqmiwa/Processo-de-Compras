@@ -1,0 +1,14 @@
+C:\Users\aluno\source\repos\Processo de Compras\Processo de Compras\bin\Debug\net8.0\Processo de Compras.exe
+C:\Users\aluno\source\repos\Processo de Compras\Processo de Compras\bin\Debug\net8.0\Processo de Compras.deps.json
+C:\Users\aluno\source\repos\Processo de Compras\Processo de Compras\bin\Debug\net8.0\Processo de Compras.runtimeconfig.json
+C:\Users\aluno\source\repos\Processo de Compras\Processo de Compras\bin\Debug\net8.0\Processo de Compras.dll
+C:\Users\aluno\source\repos\Processo de Compras\Processo de Compras\bin\Debug\net8.0\Processo de Compras.pdb
+C:\Users\aluno\source\repos\Processo de Compras\Processo de Compras\obj\Debug\net8.0\Processo de Compras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\source\repos\Processo de Compras\Processo de Compras\obj\Debug\net8.0\Processo de Compras.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\Processo de Compras\Processo de Compras\obj\Debug\net8.0\Processo de Compras.AssemblyInfo.cs
+C:\Users\aluno\source\repos\Processo de Compras\Processo de Compras\obj\Debug\net8.0\Processo de Compras.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Processo de Compras\Processo de Compras\obj\Debug\net8.0\Processo de Compras.dll
+C:\Users\aluno\source\repos\Processo de Compras\Processo de Compras\obj\Debug\net8.0\refint\Processo de Compras.dll
+C:\Users\aluno\source\repos\Processo de Compras\Processo de Compras\obj\Debug\net8.0\Processo de Compras.pdb
+C:\Users\aluno\source\repos\Processo de Compras\Processo de Compras\obj\Debug\net8.0\Processo de Compras.genruntimeconfig.cache
+C:\Users\aluno\source\repos\Processo de Compras\Processo de Compras\obj\Debug\net8.0\ref\Processo de Compras.dll
